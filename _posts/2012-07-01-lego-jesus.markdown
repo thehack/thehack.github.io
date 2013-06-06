@@ -10,4 +10,9 @@ We wanted a fresh way to represent Jesus and His followers to kids. This is what
 
 ...And here's some footage of the event:
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/APpFIRPAbeE" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/APpFIRPAbeE" frameborder="0" allowfullscreen="true"> 
+</iframe>
+
+And the T-Shirt:
+
+![Kids' Week 2012 T-Shirt](/img/tee.png)
