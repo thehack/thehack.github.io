@@ -12,13 +12,28 @@ var fixPosition = function(nav) {
   }
 };
 
+var resizeImages = function(images) {
+	if (document.documentElement.clientWidth > 1122) {
+		for (var i = images.length - 1; i >= 0; i--) {
+			images[i].style.maxWidth = '640px';
+		}
+	}
+	else {
+		for (var i = images.length - 1; i >= 0; i--) {
+			images[i].style.maxWidth = (document.documentElement.clientWidth -110) + 'px';
+		}
+	}
+};
 // called after page load
 window.onload = function() {
   fixPosition(document.getElementsByTagName('nav')[0]);
+  resizeImages(document.getElementsByTagName('img'));
 }
 
 // ... and again whenever resized.
 window.onresize = function() {
     fixPosition(document.getElementsByTagName('nav')[0]);
+	resizeImages(document.getElementsByTagName('img'));
+
 
 }
