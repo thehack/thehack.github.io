@@ -1,9 +1,0 @@
----
-layout: post
-title: "Kids' Week 2013 Sneak Peeks"
-date: 2013-06-07 00:00:00
-categories: kids week design
----
-More to come!
-
-![David - Shepherd to King](/img/david.png)
