@@ -20,4 +20,9 @@ The videos are downloadable on Vimeo:
 * [Earning Our Way](http://vimeo.com/51597083)
 * [Expert Or Learner](http://vimeo.com/52079807)
 
-<a href="/resources/pharisee_guides.zip"><button>Download PDF Discussion Guides</button></a>
+<a href="/resources/pharisee_guides.zip">
+	<button>
+		<i class="icon-download icon-large">&nbsp;
+		</i>Download PDF Discussion Guides
+	</button>
+</a>

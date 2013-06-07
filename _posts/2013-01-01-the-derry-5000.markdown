@@ -1,0 +1,11 @@
+---
+layout: post
+title: "The Derry 5000"
+date: 2013-01-01 00:00:00
+categories: volunteering design
+---
+As part of our community engagement efforts, [Cornerstone City Church](http://cornerstonecity.eu) has pledged to volunteer 5000 hours of service over the course of 2013, to support activites of Derry's 'City of Culture' designation for 2013.
+
+My challenge was to use the web to help our members track their hours online. Here's what it looked like in the end: 
+
+[![The Derry 5000](/img/derry5000.png)](http://culture.cornerstonecity.eu)
