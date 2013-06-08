@@ -39,14 +39,11 @@
 /* CUSTOM RULES */
 
 nav{ position:fixed; width:220px;}
-.bio {font-size: 14px;} 
+nav{ text-align:center;}
+.bio {font-size: 14px;text-align:left;} 
 .right {text-align: right;}
 .center {text-align: center;}
 .socialReferrers a{margin-right: 5px;}
-.home {float:right;font-size:24px;}
+.home {float:right;color:#bbb;font-size:24px;}
 .grey {color:#bbb;}
-.blue {color:#0266C8;}
-.red{color:#F90101;}
-.yellow{color:#F2B50F;}
-.green{color:#00933B;}
-li a i:hover{color:#000;}
+

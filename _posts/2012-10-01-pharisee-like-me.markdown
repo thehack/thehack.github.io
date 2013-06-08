@@ -3,6 +3,8 @@ layout: post
 title: "Pharisee Like Me"
 date: 2012-10-01 00:00:00
 categories: video spirituality
+icon: icon-film
+color: green 
 ---
 
 From a Christian perspective, biblical-era pharisees ironically rejected the very God they had passionately devoted their lives to serving. But, could could modern-day Christians be subject to the same faults?
