@@ -4,6 +4,7 @@ title: "Pharisee Like Me"
 date: 2012-10-01 00:00:00
 categories: video spirituality
 icon: icon-film
+thumb: pharisee-thumb.png
 color: green 
 ---
 

@@ -1,2 +1,6 @@
 name: Tim Inman
 pygments: false
+thumbnails:
+    dir: img/
+    thumb_width: 80
+    thumb_height: 80

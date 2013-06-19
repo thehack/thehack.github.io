@@ -4,6 +4,7 @@ title: "Lego Jesus?"
 date: 2012-07-01 00:00:00
 categories: kids week flyer design
 icon: icon-pencil
+thumb: kidsweek2012-thumb.jpg
 color: red
 ---
 We wanted a fresh way to represent Jesus and His followers to kids. This is what I came up with for the Kids' Week 2012 flyer. I used Google Sketch-up and some templates for the 3D work, and Inkscape for the costumes. 

@@ -4,6 +4,7 @@ title: "The Derry 5000"
 date: 2013-01-01 00:00:00
 categories: volunteering design
 icon: icon-bar-chart
+thumb: derry5000-thumb.png
 color: yellow
 ---
 As part of our community engagement efforts, [Cornerstone City Church](http://cornerstonecity.eu) has pledged to volunteer 5000 hours of service over the course of 2013, to support activites of Derry's 'City of Culture' designation for 2013.
