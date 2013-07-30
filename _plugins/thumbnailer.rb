@@ -40,6 +40,8 @@ module Jekyll
 	   	# remove para tags from generated html
 	    def remove_para(input)
 	      input.gsub!(/\<\/p>|\<p\>/, "")
+	      input.gsub!(/\<\/p>|\<p\>|\<img.*\>/, "")
+
 	      return input
 	    end
 	end

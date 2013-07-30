@@ -37,7 +37,7 @@ var resizeImages = function(images) {
 	//size back up as browser resizes
 	else {
 		for (var i = images.length - 1; i >= 0; i--) {
-			images[i].style.maxWidth = '640px';
+			images[i].style.maxWidth = '700px';
 		}
 	}
 };
