@@ -36,12 +36,13 @@ module Jekyll
 
 	end
 
-	module Filters
+# Had to remove this because Github overrides custom plugins
+#	module Filters
 	   	# remove para tags from generated html
-	    def remove_para(input)
-	      input.gsub!(/\<\/p>|\<p\>|\<img.*\>/, "")
-	      return input
-	    end
-	end
+#	    def remove_para(input)
+#	      input.gsub!(/\<\/p>|\<p\>|\<img.*\>/, "")
+#	      return input
+#	    end
+#	end
 
-end
+#end
