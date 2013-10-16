@@ -7,7 +7,7 @@ icon: icon-pencil
 thumb: believe-again-thumb.png
 color: red
 ---
-I assembled this video for a believe again video Cornerstone has initiated for the month of October. Members are reaching out to friends with prayer and an invitation to church. 
+I assembled this video for a believe again series Cornerstone has initiated for the month of October. Members are reaching out to friends with prayer and an invitation to church. 
 
 Special thanks to Sullivan and Gold who allowed us to use their song and to Elias Atto, who allowed us to use a clip of his 3D render of a human embryo.
 
