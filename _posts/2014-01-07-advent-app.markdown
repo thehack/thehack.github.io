@@ -2,7 +2,7 @@
 layout: post
 title: "Advent App for Cornerstone City Church"
 date: 2014-01-07 00:00:00
-categories: web design, web development, christmas, advent
+categories: mobile developmenet advent 
 icon: icon-bar-chart
 thumb: advent_app-thumb.png
 color: yellow 
