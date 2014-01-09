@@ -9,7 +9,7 @@ color: _yellow
 ---
 In 2008 I began developing [KidBuilder.net](http://kidbuilder.net), a website which helps kids engage with scripture in a fun an intresting way. On the site, kids can kids can buy badges with coins earned by watching videos, completing quizzes, and solving puzzles. 
 
-![KidBuilder.net](http://kidbuilder.net)
+![KidBuilder.net]('/img/kidbuilder.png')
 
 The site has about 1,000 registered users, and gets about 20 visits a day. It probably appeals most to children between 6 and 11 years old. A complete rebuild with new games, graphics and features is underway.
 
