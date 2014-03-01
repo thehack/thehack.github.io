@@ -4,7 +4,7 @@ title: "Minecraft-styled Easter Egg Hunt Promo"
 date: 2014-03-01 00:00:00
 categories: minecraft easter
 icon: icon-bar-chart
-thumb: easter_egg.png
+thumb: easter_egg-thumb.png
 color: _yellow 
 ---
 
