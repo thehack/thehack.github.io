@@ -121,7 +121,7 @@
         .container .offset-by-thirteen              { padding-left: 624px; }
         .container .offset-by-fourteen              { padding-left: 672px; }
         .container .offset-by-fifteen               { padding-left: 720px; }
-    }
+    
 
 
 /*  #Mobile (Portrait)
@@ -171,7 +171,7 @@
         .container .offset-by-fourteen,
         .container .offset-by-fifteen { padding-left: 0; }
 
-    }
+    
 
 
 /* #Mobile (Landscape)
@@ -203,7 +203,7 @@
         .container .sixteen.columns,
         .container .one-third.column,
         .container .two-thirds.column { width: 420px; }
-    }
+    
 
 
 /* #Clearing
