@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 16px/24px "Arvo", "Georgia", sans-serif;
+		font: 16px/24px "Bitter", "Georgia", sans-serif;
 		font-weight: 400;
 		color: #444;
 		border-top: 5px solid #444;
@@ -64,8 +64,9 @@
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #0077BB;
-		font-family: "Ubuntu", sans-serif;
+		color: #99210f
+;
+		font-family: "Bitter", sans-serif;
 		}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 46px; line-height: 50px; margin-bottom: 14px;}
@@ -96,7 +97,8 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { font-weight: 400; color: #0077BB; text-decoration: none; outline: 0; }
+	a, a:visited { font-weight: 400; color: #99210f
+; text-decoration: none; outline: 0; }
 	a:hover, a:focus { color: #000; }
 	p a, p a:visited { line-height: inherit; }
 
