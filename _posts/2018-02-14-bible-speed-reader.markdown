@@ -7,4 +7,4 @@ icon: icon-bar-chart
 thumb: bsr-thumb.png
 color: _yellow 
 ---
-[Bible Speed-Reader](speed-bible.appspot.com)
+[Bible Speed-Reader](https://speed-bible.appspot.com)
