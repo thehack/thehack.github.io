@@ -13,7 +13,7 @@ In 2008 I began developing [KidBuilder.net](http://kidbuilder.net), a website wh
 
 The site has about 1,000 registered users, and gets about 20 visits a day. It probably appeals most to children between 6 and 11 years old. A complete rebuild with new games, graphics and features is underway.
 
-####Here are some of the fun comments we have received from children and their parents  12over the years:
+#### Here are some of the fun comments we have received from children and their parents  12over the years:
 > MY KIDS HAVE BEEN PLAYING THE GAMES ON THIS SITE SINCE YOU TOLD ME ABOUT IT ON TWITTER ABOUT AN HOUR AGO, AND THEY LOVE IT!!! THANKS FOR CREATING IT.
 
 > ITS GREAT I HAVE 14 BADGES ITS COMPLETY THE BEST FROM STINKY

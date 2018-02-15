@@ -7,7 +7,6 @@ icon: icon-bar-chart
 thumb: easter_egg-thumb.png
 color: _yellow 
 ---
-
 I was asked if I could make a little promo for our Easter Egg Hunt for the church's bulliten. After submitting the first draft, I was asked if I could 'minecraft it'. Great idea!
 
 ![Minecraft-style Easter Egg Hunt](/img/easter_egg.png)

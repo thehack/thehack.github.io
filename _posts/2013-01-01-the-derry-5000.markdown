@@ -11,4 +11,4 @@ As part of our community engagement efforts, [Cornerstone City Church](http://co
 
 My challenge was to use the web to help our members track their hours online. Here's what it looked like in the end: 
 
-[![The Derry 5000](/img/derry5000.png)](http://culture.cornerstonecity.eu)
+![The Derry 5000](/img/derry5000.png)](http://culture.cornerstonecity.eu)
