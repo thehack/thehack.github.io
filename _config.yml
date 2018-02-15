@@ -1,5 +1,5 @@
 name: Tim Inman
-highlighter: nil
+highlighter: rouge
 thumbnails:
     dir: img/
     thumb_width: 80
