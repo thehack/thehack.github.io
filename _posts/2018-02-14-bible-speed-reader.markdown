@@ -11,4 +11,4 @@ Speed Bible is my work-in-progress experiment for speed-reading the Bible. Recen
 
 There is much to be said for slow, methodical Bible study, but I found out this is a useful tool. When I use it, I feel like I'm devouring scripture. Because I can read much faster, I pick up on themes and story arc that I would have missed otherwise. 
 
-Check it out and let me know what you think. [Speed Bible](https://speed-bible.appspot.com)
+Check it out and let me know what you think. [Speed Bible](https://speed-bible.herokuapp.com/)
