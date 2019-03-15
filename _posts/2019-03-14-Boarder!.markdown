@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "Bible Speed-Reader"
+title: "Snowboarder!"
 date: 2019-03-14 00:00:00
 categories: Scratch games snowboarding
 icon: icon-bar-chart
-thumb: boarder-open-thumb.png
+thumb: boarder-thumb.png
 color: _yellow 
 ---
-I created this Boarder! as a tutorial for our CoderDojo Kids to practice their coding skills. 
+I created Snowboarder! as a tutorial for our CoderDojo Kids to practice their coding skills. 
 
-Check it out:
-
-<iframe src="https://scratch.mit.edu/projects/292249836/embed" width="480" height="360" allowFullScreen></iframe>
-
-
-Check it out and let me know what you think. [Speed Bible](https://speed-bible.herokuapp.com/)
+<iframe src="https://jamesbmadden.github.io/scratch-silicon/#292249836" width="100%" allowFullscreen></iframe>
