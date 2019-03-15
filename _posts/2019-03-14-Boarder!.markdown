@@ -9,4 +9,4 @@ color: _yellow
 ---
 I created Snowboarder! as a tutorial for our CoderDojo Kids to practice their coding skills. 
 
-<iframe src="https://jamesbmadden.github.io/scratch-silicon/#292249836" width="500" height="500" scrolling="no" allowFullscreen></iframe>
+<iframe src="https://jamesbmadden.github.io/scratch-silicon/#292249836" width="520" height="440" scrolling="no" allowFullscreen></iframe>
